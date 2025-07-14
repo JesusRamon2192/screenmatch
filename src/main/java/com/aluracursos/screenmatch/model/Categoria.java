@@ -8,7 +8,8 @@ public enum Categoria {
     CRIMEN("Crime", "Crimen"),
     DOCUMENTAL("Documentary", "Documental"),
     ANIMACION("Animation", "Animacion"),
-    BIOGRAFIA("Biography", "Biografia");
+    BIOGRAFIA("Biography", "Biografia"),
+    HORROR("Horror", "Horror");
     private String categoriaOmdb;
     private String categoriaEspanol;
     Categoria (String categoriaOmdb, String categoriaEspanol){
@@ -31,6 +32,7 @@ public enum Categoria {
                 return categoria;
             }
         }
+
         throw new IllegalArgumentException("Ninguna categoria encontrada: " + text);
     }
 }
