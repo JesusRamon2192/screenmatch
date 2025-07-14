@@ -1,7 +1,8 @@
 name: Change Tracking Marker
 on:
-  release:
-    types: [published]
+  push:
+    branches:
+      - main
 
 jobs:
   newrelic:
