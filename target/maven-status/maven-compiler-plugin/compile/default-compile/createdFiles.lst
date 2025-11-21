@@ -1,0 +1,17 @@
+com\aluracursos\screenmatch\service\SerieService.class
+com\aluracursos\screenmatch\principal\Principal.class
+com\aluracursos\screenmatch\service\ConvierteDatos.class
+com\aluracursos\screenmatch\dto\EpisodioDTO.class
+com\aluracursos\screenmatch\model\Episodio.class
+com\aluracursos\screenmatch\model\DatosEpisodio.class
+com\aluracursos\screenmatch\model\DatosSerie.class
+com\aluracursos\screenmatch\model\DatosTemporadas.class
+com\aluracursos\screenmatch\repository\SerieRepository.class
+com\aluracursos\screenmatch\model\Serie.class
+com\aluracursos\screenmatch\ScreenmatchApplication.class
+com\aluracursos\screenmatch\config\CorsConfiguration.class
+com\aluracursos\screenmatch\service\ConsumoAPI.class
+com\aluracursos\screenmatch\controller\SerieController.class
+com\aluracursos\screenmatch\dto\SerieDTO.class
+com\aluracursos\screenmatch\model\Categoria.class
+com\aluracursos\screenmatch\service\IConvierteDatos.class
