@@ -1,8 +1,9 @@
 
 name: Change Tracking Marker
 on:
-  release:
-    types: [published]
+  push:
+    tags:
+      - '*'
 
 jobs:
   newrelic:
