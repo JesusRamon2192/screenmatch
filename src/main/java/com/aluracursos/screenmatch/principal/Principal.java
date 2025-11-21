@@ -43,7 +43,7 @@ public class Principal {
                     6 - Buscar series por categoria
                     7 - Filtrar series por temporadas y evaluación
                     8 - Buscar episodios por titulos
-                    9 - Top 5 episodios por series
+                    9 - Top 5 episodios por serie
                                   
                     0 - Salir
                     """;
